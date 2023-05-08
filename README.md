@@ -11,7 +11,7 @@ Moreover, the bot is equipped with a range of useful tools and commands that can
 
 # How to use :
 1- Create your bot in @BotFather and copy bot Token <br>
-2- buy a Server or Host <br>
+2- buy a Server or Host ,link a Domain and run SSL <br>
 3- Open config.php file using editor and just replace robot Admin Telegram ID number in "00000000" on line 6 , and paste bot token(from botfather) between "" on line7 <br>
 4- Save and Upload the Source on Your host <br>
 5- Set webhook using https://api.telegram.org/botTOKEN/setwebhook?url=LINK <br>
