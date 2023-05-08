@@ -10,12 +10,12 @@ This Telegram bot comes with a variety of features that can help users communica
 Moreover, the bot is equipped with a range of useful tools and commands that can make communication more enjoyable and interactive.
 
 # How to use :
-1-
-2-
-3-
-4-
-5-
-6-
-7-
+1- Create your bot in @BotFather and copy bot Token
+2- buy a Server or Host
+3- Open config.php file using editor and just replace robot Admin Telegram ID number in "00000000" on line 6 , and paste bot token(from botfather) between "" on line7
+4- Save and Upload the Source on Your host
+5- Set webhook using https://api.telegram.org/botTOKEN/setwebhook?url=LINK
+6- replace "TOKEN" with token you give from @BotFather and "LINK" With your host like = https://yourdomain.com/directory.index.php
+7- Now /start Your bot
 
 Overall, this Telegram messenger bot is a valuable tool for Persian-speaking users who want to communicate more easily and efficiently on Telegram. I am excited to share this bot with the community and hope that it can be a useful addition to the existing messaging options available on Telegram. The code for this bot is available on GitHub, and I welcome any feedback or contributions from fellow developers.
