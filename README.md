@@ -19,3 +19,5 @@ Moreover, the bot is equipped with a range of useful tools and commands that can
 7- Now /start Your bot <br>
 
 Overall, this Telegram messenger bot is a valuable tool for Persian-speaking users who want to communicate more easily and efficiently on Telegram. I am excited to share this bot with the community and hope that it can be a useful addition to the existing messaging options available on Telegram. The code for this bot is available on GitHub, and I welcome any feedback or contributions from fellow developers.
+
+<img src="https://github.com/shafiei/telegram-messenger-bot/blob/main/demo.png" alt="Demo of free Persian Telegram messenger bot using PHP">
