@@ -1,2 +1,21 @@
 # telegram-messenger-bot
 Persian Telegram messenger bot using PHP
+
+Introduction:
+a Telegram messenger bot using PHP programming language, specifically designed for Persian speakers. This bot is aimed at providing a convenient and easy-to-use messaging experience for Telegram users who prefer to communicate in Farsi.
+
+Features:
+My Telegram bot comes with a variety of features that can help users communicate more efficiently and effectively. For example, users can send and receive text messages, images, and documents through the bot , lock a channel for send message , share sender Telegram ID to admin and...
+
+Moreover, the bot is equipped with a range of useful tools and commands that can make communication more enjoyable and interactive.
+
+# How to use :
+1-
+2-
+3-
+4-
+5-
+6-
+7-
+
+Overall, this Telegram messenger bot is a valuable tool for Persian-speaking users who want to communicate more easily and efficiently on Telegram. I am excited to share this bot with the community and hope that it can be a useful addition to the existing messaging options available on Telegram. The code for this bot is available on GitHub, and I welcome any feedback or contributions from fellow developers.
